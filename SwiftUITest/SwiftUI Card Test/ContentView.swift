@@ -20,7 +20,6 @@ struct ContentView: View {
                 }
                 }
             }
-//            .foregroundColor(.green)
             Spacer()
             HStack {
                 remove
@@ -76,45 +75,6 @@ struct CardView: View {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 struct ContentView_Previews: PreviewProvider {
